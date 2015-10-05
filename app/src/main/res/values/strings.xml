@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="File_Clear_screen">Clear screen</string>
+    <string name="SymbologySettingMenu">Symbology Setting</string>
+    <string name="ClearScreenMenu">Clear Screen</string>
+    <string name="app_name">ScannerApp</string>
+    <string name="check_app">CheckApp</string>
+    <string name="PROMOT_CLICK_SCAN_BUTTON">Tap Scan button or press Scan key to scan a barcode</string>
+    <string name="RESTORESYMBOLOGYSETTING">Default symbology settings</string>
+
+    <string name="title_scan_failed">Scan neuspešný</string>
+    <string name="server_error_message">Chyba odosielania dát. Chyba servera alebo je nedostupný.</string>
+    <string name="no_connection_error_message">Chyba odosielania dát. Skontrolujte pripojenie na internet.</string>
+
+</resources> 
